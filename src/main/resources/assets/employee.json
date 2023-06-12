@@ -1,0 +1,88 @@
+[
+    {
+        "id": 1,
+        "role": "Developer",
+        "firstName": "Romin",
+        "lastName": "Irani",
+        "preferredFullName": "Romin Irani",
+        "employeeCode": "E1",
+        "region": "CA",
+        "phone": "408-1234567",
+        "email": "romin.k.irani@gmail.com",
+        "tags": [
+            "developer",
+            "digital",
+            "java"
+        ],
+        "address": {
+            "street": "790 Rockland Drive",
+            "pincode": "91402",
+            "city": "Panorama City",
+            "state": "CA"
+        }
+    },
+    {
+        "id": 2,
+        "role": "Developer",
+        "firstName": "Neil",
+        "lastName": "Irani",
+        "preferredFullName": "Neil Irani",
+        "employeeCode": "E2",
+        "region": "CA",
+        "phone": "408-1111111",
+        "email": "neilrirani@gmail.com",
+        "tags": [
+            "developer",
+            "digital",
+            "devops"
+        ],
+        "address": {
+            "street": "790 Rockland Drive",
+            "pincode": "91402",
+            "city": "Panorama City",
+            "state": "CA"
+        }
+    },
+    {
+        "id": 3,
+        "role": "Recruiter",
+        "firstName": "Tom",
+        "lastName": "Hanks",
+        "preferredFullName": "Tom Hanks",
+        "employeeCode": "E3",
+        "region": "CA",
+        "phone": "408-2222222",
+        "email": "tomhanks@gmail.com",
+        "tags": [
+            "humanresources",
+            "techrecruiter"
+        ],
+        "address": {
+            "street": "790 Rockland Drive",
+            "pincode": "91402",
+            "city": "Panorama City",
+            "state": "CA"
+        }
+    },
+    {
+        "id": 4,
+        "role": "Manager",
+        "firstName": "Tim",
+        "lastName": "Holland",
+        "preferredFullName": "Tim Holland",
+        "employeeCode": "E4",
+        "region": "CA",
+        "phone": "408-2222223",
+        "email": "timholland@gmail.com",
+        "tags": [
+            "manager",
+            "digital"
+        ],
+        "address": {
+            "street": "790 Rockland Drive",
+            "pincode": "91402",
+            "city": "Panorama City",
+            "state": "CA"
+        }
+    }
+]
